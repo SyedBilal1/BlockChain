@@ -2,6 +2,7 @@
 
 using System;
 using BlockChain.Entity;
+namespace BlockChain;
 
 class Program
 {
